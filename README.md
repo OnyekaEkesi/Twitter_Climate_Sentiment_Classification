@@ -52,6 +52,7 @@ I would like to express my sincere gratitude to my incredible team of data and i
 * Gideon Odekina
 * Chege Kennedy
 * MacDaniel Ogechukwu
+* Tolulope Toluwade
 
 ### Note:
 * Twitter as at the time of writing is known as X.
