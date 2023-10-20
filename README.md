@@ -41,3 +41,18 @@ The picture below shows a demo of our classifier:
 <p align="center">
 <img align = "center" width="700" height="400" src="https://github.com/OnyekaEkesi/Pics_for_github_project_readme/blob/main/Twitter_sentiment/appdemo.jpg?raw=true">
 </p> <br> 
+
+## Recommendation
+This project has revealed how the public feels about climate change, giving businesses valuable information. We were able to use machine learning to extract insights that companies can use to make better market research and strategic business decisions:
+
+## Acknowledgement
+I would like to express my sincere gratitude to my incredible team of data and innovation enthusiasts who collaborated effectively to make a positive impact through cutting-edge data analysis and machine learning on this project:
+
+* Marcus Ayodele
+* Gideon Odekina
+* Chege Kennedy
+* MacDaniel Ogechukwu
+
+### Note:
+*Twitter as at the time of writing is known as X.
+* Due to the nature of this project, code cannot be shared publicly.
