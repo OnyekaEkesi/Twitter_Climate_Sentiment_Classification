@@ -27,5 +27,5 @@ The web application allows users to analyse tweets which it takes in as text and
 * Install the project dependencies and scikit-learn using the following command:<br> pip install -U matplotlib numpy pandas scikit-learn.
 
 ## Result Snippet
-
+https://github.com/OnyekaEkesi/Pics_for_github_project_readme/blob/main/Twitter_sentiment/appdemo.jpg?raw=true
 
