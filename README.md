@@ -43,7 +43,7 @@ The picture below shows a demo of our classifier:
 </p> <br> 
 
 ## Recommendation
-This project has revealed how the public feels about climate change, giving businesses valuable information. We were able to use machine learning to extract insights that companies can use to make better market research and strategic business decisions:
+This project has revealed how the public feels about climate change, giving businesses valuable information. We were able to use machine learning to extract insights that companies can use to make better market research and take strategic business decisions that keep them ahead of their competitiors.
 
 ## Acknowledgement
 I would like to express my sincere gratitude to my incredible team of data and innovation enthusiasts who collaborated effectively to make a positive impact through cutting-edge data analysis and machine learning on this project:
