@@ -27,5 +27,17 @@ The web application allows users to analyse tweets which it takes in as text and
 * Install the project dependencies and scikit-learn using the following command:<br> pip install -U matplotlib numpy pandas scikit-learn.
 
 ## Result Snippet
-[]https://github.com/OnyekaEkesi/Pics_for_github_project_readme/blob/main/Twitter_sentiment/appdemo.jpg?raw=true
+The General outlook of the dataset is displayed in the plot below:
+<p align="center">
+<img align = "center" width="700" height="400" src="https://github.com/OnyekaEkesi/Pics_for_github_project_readme/blob/main/Twitter_sentiment/piechart.png?raw=true">
+</p> <br> 
 
+The plot below displays the F1 score of the various models used:
+<p align="center">
+<img align = "center" width="700" height="400" src="https://github.com/OnyekaEkesi/Pics_for_github_project_readme/blob/main/Twitter_sentiment/metric.jpg?raw=true">
+</p> <br> 
+
+The picture below shows a demo of our classifier:
+<p align="center">
+<img align = "center" width="700" height="400" src="https://github.com/OnyekaEkesi/Pics_for_github_project_readme/blob/main/Twitter_sentiment/appdemo.jpg?raw=true">
+</p> <br> 
