@@ -22,4 +22,4 @@ The web application allows users to analyse tweets which it takes in as text and
 ## Installation
 * pip install Python
 * Download the necessary Copora and Model. In this case:
-* 1. we import nltk and download stopwords and punkt
+  1. we import nltk and download stopwords and punkt
