@@ -7,7 +7,7 @@ In this project, We developed a tool that can be used to analyze tweets and iden
 We tested different machine learning models to find the best one for predicting climate sentiment in tweets. The Linear SVM was the best performing model giving an F1 score of 0.80. We also considered other metrics such as Accuracy, Recall and Precision.
 <br>
 
-## features
+## Feature
 This project presents a sentiment analysis tool for tweets that can classify them as positive, negative, news, or neutral. The tool is implemented as a web application using Streamlit, which makes it easy to use and interact with.
 The web application allows users to analyse tweets which it takes in as text and it returns sentiment of the tweet. This makes it ideal for organizations that need to analyze the sentiment of a large number of tweets.
 <br>
