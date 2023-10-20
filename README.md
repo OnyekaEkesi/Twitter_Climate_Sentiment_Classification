@@ -54,5 +54,5 @@ I would like to express my sincere gratitude to my incredible team of data and i
 * MacDaniel Ogechukwu
 
 ### Note:
-*Twitter as at the time of writing is known as X.
+* Twitter as at the time of writing is known as X.
 * Due to the nature of this project, code cannot be shared publicly.
